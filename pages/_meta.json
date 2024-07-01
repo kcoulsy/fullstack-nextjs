@@ -1,15 +1,22 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "styling": "Styling", 
+  "components": "Components",
+  "databases": "Databases",
+  "forms": "Forms",
+  "storage": "Storage",
+  "queues": "Queues",
+  "mail": "Mail",
+  "authentication": "Authentication",
+  "deployment": "Deployment",
+  "rate-limiting": "Rate Limiting",
+  "localization": "Localization",
+  "security": "Security",
+  "error-handling": "Error Handling",
+  "logging": "Logging",
+  "task-scheduling": "Task Scheduling",
+  "testing": "Testing",
+  "validation": "Validation",
+  "websockets": "Websockets"
+  
 }

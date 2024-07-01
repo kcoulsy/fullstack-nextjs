@@ -1,0 +1,6 @@
+{
+  "aws-s3": "AWS S3",
+  "cloudflare-r2": "Cloudflare R2",
+  "backblaze-b2": "Backblaze B2",
+  "upload-thing": "Upload Thing"
+}
